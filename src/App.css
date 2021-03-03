@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+.App {
+  text-align: center;
+}
+
+.images-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: black;
+}
+
+.loadingMsg {
+  margin: 30%;
+}
+
+.details {
+  padding: 2%;
+  margin: auto auto;
+}
